@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sweet Sweet Memories",
+  "base_artist": "ガーデンズ",
+  "createdAt": "2025-12-26T06:42:07.350651Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Sweet Memories",
+      "artist": "The gardens",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Sweet_Memories_The_gardens.txt"
+    }
+  ]
+}
